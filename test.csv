@@ -1,11 +1,2 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <!-- head definitions go here -->
-    </head>
-    <body>
-        <!-- the content goes here -->
-        <h1>test</h1>
-        <img src=x onerror=alert(1)></img>
-    </body>
-</html>
+;;;;;;
+;<img src=x onerror=alert(1)>;;;;;
